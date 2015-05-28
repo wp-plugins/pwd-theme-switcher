@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: PWD Theme Switcher
-Description: Change theme to see your changes without saving it just for your session
+Description: Change theme to view your front office changes without saving just for your session
 Version: 1.0
 Plugin URI: http://www.plateformewpdigital.fr/plugins/pwd-theme-switcher
 Author: Plateforme WP Digital, Kulka Nicolas

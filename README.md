@@ -9,17 +9,17 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Change theme to see your changes without saving it just for your session.
+Change theme to view your front office changes without saving just for your session.
 
 == Description ==
 
 = English =
-Change theme to see your changes without saving it just for your session
+Change theme to view your front office changes without saving just for your session
 
 If you love the plugin, please consider rating it and clicking on "it works" button.
 
 = Français =
-Switcher facilement de thème pour voir vos modifications sans le changer en backoffice et l'enregistrer.
+Switcher facilement de thème pour voir vos modifications en front office sans le changer en backoffice et l'enregistrer.
 
 Si vous aimez le plugin, laisser une évaluation et cliquer sur ​​le bouton «it works».
 
